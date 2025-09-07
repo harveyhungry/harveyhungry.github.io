@@ -1,0 +1,28 @@
+name: "Harvey Nguyen - Data Analytics Portfolio"
+output_dir: "docs"
+navbar:
+  title: "Harvey Nguyen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-github
+      href: https://github.com/harvey-nguyen
+    - icon: fa-linkedin
+      href: https://linkedin.com/in/nguyendanghuy317
+    - icon: fa-envelope
+      href: mailto:nguyendanghuy317@gmail.com
+output:
+  html_document:
+    theme: flatly  # or bootstrap, cerulean, journal, etc.
+    toc: true
+    toc_float: true
+    code_folding: hide
+    self_contained: false
+    lib_dir: libs

@@ -1,0 +1,34 @@
+---
+title: "Harvey Nguyen - Business Analytics Student"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    code_folding: hide
+    self_contained: false
+---
+
+# 👋 Welcome! I'm Harvey  
+
+**Dang Huy (Harvey) Nguyen**  
+Business Analytics Student at Maastricht University, Netherlands 
+Currently interning at VNDIRECT Securities Corporation, Vietnam
+
+---
+
+## 🌟 About Me
+I’m passionate about turning data into actionable business insights.  
+My work spans **machine learning**, **business process optimization**, and **data visualization** – always with a focus on solving real-world problems.  
+
+---
+
+## 🚀 Quick Updates
+- 🎓 **Current:** Final year Business Analytics student (**GPA: 7.71/10**)  
+- 💼 **Now:** Business Analyst Intern at *VNDIRECT Securities*, digitizing workflows for **7,000+ users**  
+- 🌍 **Next:** Study abroad at *Hamburg University* (**Oct 2025 – Mar 2026**)  
+- 📊 **Recent:** Led *24-hour Hackathon* with **50+ participants** as *SCOPE Maastricht Chairman*  
+
+---
+
+*Last updated: `r format(Sys.time(), '%B %d, %Y at %H:%M')`*
