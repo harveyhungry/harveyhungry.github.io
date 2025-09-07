@@ -1,5 +1,5 @@
 ---
-title: "Harvey Nguyen - Business Analytics Student"
+title: ""
 output: 
   html_document:
     theme: flatly
@@ -12,8 +12,8 @@ output:
 # 👋 Welcome! I'm Harvey  
 
 **Dang Huy (Harvey) Nguyen**  
-Business Analytics Student at Maastricht University, Netherlands 
-Currently interning at VNDIRECT Securities Corporation, Vietnam
+Business Analytics Student at Maastricht University, Netherlands \n
+Currently interning at **VNDIRECT Securities Corporation, Vietnam**
 
 ---
 
@@ -31,4 +31,4 @@ My work spans **machine learning**, **business process optimization**, and **dat
 
 ---
 
-*Last updated: `r format(Sys.time(), '%B %d, %Y at %H:%M')`*
+*Last updated: `r format(Sys.time(), '%A, %B %d, %Y')`*
